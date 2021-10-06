@@ -43,6 +43,7 @@ html{
     display: flex;
     flex-direction: column;
     height: 840px;
+    font-family: 'Times New Roman', Times, serif;
     justify-content: center;
     align-items: center;
     
